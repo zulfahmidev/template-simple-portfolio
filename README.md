@@ -26,7 +26,7 @@ Created by **zulfahmidev**.
 Website: https://zulfahmidev.com
 
 ## License
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [MIT license](LICENSE).
 
 # Dukungan
 Kalau template ini membantu, jangan lupa kasih star ⭐ di GitHub!
