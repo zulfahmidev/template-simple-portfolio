@@ -1,7 +1,9 @@
-# Template Simple Portfolio
-A clean and flexible web template suitable for personal portfolio, landing pages, portfolios, or any frontend needs.
+# Elegant Portfolio
+A premium, fully responsive portfolio template featuring a luxurious gold–on–black museum aesthetic. Designed for creatives who want a sophisticated and elegant online presence, this template includes a polished hero section, structured content flow, stylish portfolio grid, and refined typography.
 
-Built with a simple structure, easy customization, and lightweight components.
+All images are placeholders and can be easily replaced to suit any profession — designers, developers, photographers, agencies, or artists.
+
+Built with clean and modern HTML/CSS (Tailwind-ready), this template is optimized for clarity, flexibility, and fast customization, making it ideal for personal branding or professional portfolio showcases.
 
 ## Features
 - Clean and modern HTML structure
@@ -12,7 +14,7 @@ Built with a simple structure, easy customization, and lightweight components.
 ## Getting Started
 1. Clone the repository:
     ``` bash
-    git clone https://github.com/USERNAME/REPO-NAME.git
+    git clone https://github.com/zulfahmidev/template-elegant-portfolio.git
     ```
 2. Navigate into the project folder:
     ``` bash
@@ -27,6 +29,3 @@ Website: https://zulfahmidev.com
 
 ## License
 The code is available under the [MIT license](LICENSE).
-
-# Dukungan
-Kalau template ini membantu, jangan lupa kasih star ⭐ di GitHub!
